@@ -1,0 +1,48 @@
+
+Airport code: YYZ 
+Airport ICAO: CYYZ  
+Airport name:Toronto Pearson International Airport 
+Airport city:Mississauga 
+Street Number:6301 
+Street: Silver Dart Drive 
+Airport country:Canada 
+Country ISO: CA 
+Airport latitude:43.67772 
+Airport longitude: -79.62482 
+Location: Toronto, Ontario, Canada 
+Postal Code: L5P 1B2 
+Phone: +1 416-247-7678 
+UCT: -240 
+Website: http://www.torontopearson.com/
+
+Airport code: YOW 
+Airport ICAO: CYOW  
+Airport name:Ottawa Macdonald–Cartier International Airport 
+Airport city:Ottawa 
+Street Number:1000 
+Street: Airport Parkway Private 
+Airport country:Canada 
+Country ISO: CA 
+Airport latitude:45.319214 
+Airport longitude: -75.66917 
+Location: Ottawa, Ontario, Canada 
+Postal Code: K1V 9B4 
+Phone: +1 613-248-2125 
+UCT: -240 
+Website: http://www.yow.ca/
+
+Airport code: YVR 
+Airport ICAO: CYVR  
+Airport name:Vancouver International Airport 
+Airport city:Richmond 
+Street Number:3211 
+Street: Grant McConachie Way 
+Airport country:Canada 
+Country ISO: CA 
+Airport latitude:49.19669 
+Airport longitude: -123.18151 
+Location: Vancouver, British Columbia, Canada 
+Postal Code: V7B 0A4 
+Phone: +1 604-207-7077 
+UCT: -420 
+Website: http://www.yvr.ca/
